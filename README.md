@@ -36,7 +36,7 @@ The Tide profile is built as a backend Drupal distribution for 1 or more headles
 A main feature of the SDP project is central content management of numerous alternate websites, providing the ability to build complex user journeys across multiple websites within a single CMS; this is provided mainly by the tide_site, https://github.com/dpc-sdp/tide_site, module. 
 
 # DOCUMENTATION
-For further information visit the Single Digital Presence website, https://sdp.vic.gov.au, The github project page, https://github.com/dpc-sdp/tide or the Drupal project page, https://drupal.org/project/tide.
+For further information visit the Single Digital Presence website, https://beta.vic.gov.au/what-single-digital-presence-offers, The github project page, https://github.com/dpc-sdp/tide or the Drupal project page, https://drupal.org/project/tide.
 
 # REQUIREMENTS
 * composer/installers
